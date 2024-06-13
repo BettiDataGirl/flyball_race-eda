@@ -1,4 +1,4 @@
-### Flyball_race-eda
+### Flyball race analysis
 - A detailed analysis of a flyball tournament season.
 - In-house data science contest from Data36.com
 - Being selected into the final and won second place :).
