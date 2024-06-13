@@ -1,8 +1,7 @@
 ### flyball_race-eda
-A detailed analysis of a flyball tournament season.
-
-### In-house data science contest from Data36.com
-Being selected into the final and won second place :).
+- A detailed analysis of a flyball tournament season.
+- In-house data science contest from Data36.com
+- Being selected into the final and won second place :).
 
 ### Project status
 Completed. I have few more ideas of using of machine learning.
