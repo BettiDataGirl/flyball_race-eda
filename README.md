@@ -1,26 +1,26 @@
 ### Flyball race analysis
 - A detailed analysis of a flyball tournament season.
 - In-house data science contest from Data36.com
-- Being selected into the final and won second place :).
+- Selected as a finalist and awarded second place 🎉
 
 ### Project status
-Completed. I have few more ideas of using of machine learning.
+Completed. I still have a few more ideas for applying machine learning.
 
 ### Data source
-Data is collected from the 2023 series of flyball competition of the Czech Flyball Club.
+Data collected from the 2023 flyball competition series of the Czech Flyball Club.
 
 ### Methods used
-- data cleaning
-- data exploration
-- investigate statistical metrics
-- data visualization
+- Data cleaning
+- Exploratory data analysis
+- Statistical metrics investigation
+- Data visualization
 - API usage
-- presentation of found insights
+- Presentation of insights
 
 ### Technologies
-- code: python jupyter notebook
-- visualization: plotly express
-- presentation: flynote
+- code: python (Jupyter notebook)
+- visualization: Plotly Express
+- presentation: Flynote
 
 
 
